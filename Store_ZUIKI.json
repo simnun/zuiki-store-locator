@@ -2914,5 +2914,23 @@
     "hs": "09:00-20:30",
     "hd": "10:00-20:00",
     "m": "https://maps.app.goo.gl/mq9KUWFcXXjJbmvDA"
+  },
+  {
+    "codice_negozio": "TEST",
+    "r": "Campania",
+    "p": "Napoli",
+    "n": "TEST",
+    "brand": "Zuiki",
+    "b": "Zuiki",
+    "t": "Centro Città",
+    "a": "CIS - Isola 8, 80035 Cis NA",
+    "c": "Nola",
+    "tel": "",
+    "la": 40.95998726561214,
+    "lo": 14.475043495422778,
+    "hw": "",
+    "hs": "",
+    "hd": "",
+    "m": ""
   }
 ]
