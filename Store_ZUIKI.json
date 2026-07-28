@@ -2914,5 +2914,41 @@
     "hs": "09:00-20:30",
     "hd": "10:00-20:00",
     "m": "https://maps.app.goo.gl/mq9KUWFcXXjJbmvDA"
+  },
+  {
+    "codice_negozio": "BOVAL",
+    "r": "Calabria",
+    "p": "Reggio Calabria",
+    "n": "La Galleria - Parco Commerciale",
+    "brand": "Zuiki",
+    "b": "Zuiki",
+    "t": "C.C.",
+    "a": "SS106 km. 84",
+    "c": "Bovalino",
+    "tel": "",
+    "la": 38.1334141434491,
+    "lo": 16.16150320301379,
+    "hw": "09:00-12:45;16:15-20:15",
+    "hs": "09:00-12:45;16:15-20:15",
+    "hd": "09:00-12:45;16:15-20:15",
+    "m": "https://maps.app.goo.gl/ZCxe2vB3g6L9aVJh8"
+  },
+  {
+    "codice_negozio": "BIRRE",
+    "r": "Campania",
+    "p": "Napolia",
+    "n": "C.C. La Birreria",
+    "brand": "Zuiki",
+    "b": "Zuiki",
+    "t": "C.C.",
+    "a": "Piazza Madonna dell'Arco, 12",
+    "c": "Napoli",
+    "tel": "",
+    "la": 40.886192793973954,
+    "lo": 14.256653594538902,
+    "hw": "09:00-21:00",
+    "hs": "09:00-21:00",
+    "hd": "09:00-21:00",
+    "m": "https://maps.app.goo.gl/Ydh8oiWQJt8BpEAP8"
   }
 ]
