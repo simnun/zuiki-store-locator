@@ -2142,24 +2142,6 @@
     "m": "https://maps.app.goo.gl/noT759CRHXxzh8LD8"
   },
   {
-    "codice_negozio": "SCIAC",
-    "r": "Sicilia",
-    "p": "Agrigento",
-    "n": "Sciacca Centro Storico",
-    "brand": "Zuiki",
-    "b": "Zuiki",
-    "t": "Centro Città",
-    "a": "Via G. Licata, 143",
-    "c": "Sciacca",
-    "tel": "+39092521921",
-    "la": "37.50874499",
-    "lo": "13.08202182",
-    "hw": "09:30-13:00/16:30-20:30",
-    "hs": "09:30-13:00/16:30-20:30",
-    "hd": "CHIUSO",
-    "m": "https://maps.app.goo.gl/QtnfxpYBuzRvaFZX7"
-  },
-  {
     "codice_negozio": "LICAT",
     "r": "Sicilia",
     "p": "Agrigento",
@@ -2178,7 +2160,7 @@
     "m": "https://maps.app.goo.gl/vto2tZx2MGghcwig7"
   },
   {
-    "codice_negozio": "TEMP2",
+    "codice_negozio": "AGRIG",
     "r": "Sicilia",
     "p": "Agrigento",
     "n": "C.C. Città dei Templi",
@@ -2898,6 +2880,24 @@
     "m": "https://maps.app.goo.gl/xd89Dq9BBDVUwsTA9"
   },
   {
+    "codice_negozio": "PIRA1",
+    "r": "Veneto",
+    "p": "Vicenza",
+    "n": "Le Piramidi Shopping District",
+    "brand": "Zuiki",
+    "b": "Zuiki",
+    "t": "C.C.",
+    "a": "Via Pola, 20",
+    "c": "Torri di Quartesolo",
+    "tel": "+3904441727121",
+    "la": 45.509532191179225,
+    "lo": 11.626039178390375,
+    "hw": "09:30-20:00",
+    "hs": "09:30-20:00",
+    "hd": "09:30-20:00",
+    "m": "https://maps.app.goo.gl/tWYd7wjSwmKbZGeA7"
+  },
+  {
     "codice_negozio": "GRATO",
     "r": "Lombardia",
     "p": "Lodi",
@@ -2936,7 +2936,7 @@
   {
     "codice_negozio": "BIRRE",
     "r": "Campania",
-    "p": "Napoli",
+    "p": "Napolia",
     "n": "C.C. La Birreria",
     "brand": "Zuiki",
     "b": "Zuiki",
