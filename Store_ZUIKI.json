@@ -2950,5 +2950,23 @@
     "hs": "09:00-21:00",
     "hd": "09:00-21:00",
     "m": "https://maps.app.goo.gl/Ydh8oiWQJt8BpEAP8"
-  }
+  },
+  {
+  "codice_negozio": "GEMMA",
+  "r": "Emilia-Romagna",
+  "p": "Modena",
+  "n": "C.C. Gemma",
+  "brand": "Zuiki",
+  "b": "Zuiki",
+  "t": "C.C.",
+  "a": "Via Archimede, 9",
+  "c": "Sassuolo",
+  "tel": "",
+  "la": 44.555190564251,
+  "lo": 10.799422874771315,
+  "hw": "08:30-20:00",
+  "hs": "08:30-20:00",
+  "hd": "08:30-20:00",
+  "m": "https://maps.app.goo.gl/Qg5ZEfk9MXLr5Y4E6"
+}
 ]
