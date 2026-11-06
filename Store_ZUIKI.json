@@ -837,7 +837,7 @@
     "t": "C.C.",
     "a": "Loc. Maranuz, 2",
     "c": "Villesse",
-    "tel": "+39048191399",
+    "tel": "+390481229178",
     "la": "45.86530398",
     "lo": "13.42985671",
     "hw": "10:00-20:00",
@@ -2968,5 +2968,23 @@
   "hs": "08:30-20:00",
   "hd": "08:30-20:00",
   "m": "https://maps.app.goo.gl/Qg5ZEfk9MXLr5Y4E6"
+},
+  {
+  "codice_negozio": "FUENT",
+  "r": "Lombardia",
+  "p": "Sondrio",
+  "n": "C.C. Fuentes",
+  "brand": "Zuiki",
+  "b": "Zuiki",
+  "t": "C.C.",
+  "a": "Via la Rosa, 354",
+  "c": "Piantedo",
+  "tel": "+3903411812331",
+  "la": 46.140594104544846,
+  "lo": 9.41837029670698,
+  "hw": "08:30-20:00",
+  "hs": "08:30-20:00",
+  "hd": "08:30-20:00",
+  "m": "https://maps.app.goo.gl/eomSpi5ygryu72XK8"
 }
 ]
